@@ -1,4 +1,4 @@
-[cast]{cast.md}
+[cast](cast.md)
 
 ---
 title: StarGazers
